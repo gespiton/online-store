@@ -1,4 +1,4 @@
-package test.java.com.xmu.javaee;
+package com.xmu.javaee;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package main.java.com.xmu.javaee;
+package com.xmu.javaee;
 
 /**
  * Hello world!
