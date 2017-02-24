@@ -18,6 +18,8 @@
 	* congratulation, you success
 
 ##import to IDE
+
+* **project file is under src directory**
 * if you wanna install dependency through command line, cd to your project dir, run **mvn install**, if you see BUILD SUCCESS
 
 ```
