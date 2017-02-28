@@ -1,4 +1,4 @@
-package com.xmu.javaee;
+package social.weixin;
 
 import org.junit.Test;
 

@@ -1,7 +1,8 @@
 <!-- creator: 周鸿清 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>com.xmu.javaee</groupId>
+        <groupId>com.xmu</groupId>
         <artifactId>online-store</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
@@ -17,5 +18,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <name>shop-business</name>
+    <name>store-business</name>
 </project>
